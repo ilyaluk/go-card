@@ -19,11 +19,7 @@ Arch Linux:
     sudo pacman -S pcsclite ccid
     sudo systemctl enable pcscd
 
-### OS X
-
-Probably none. PCSC-Lite should come with the system.
-
-### Windows
+### macOs/Windows
 
 None
 
